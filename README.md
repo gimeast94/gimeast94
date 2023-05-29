@@ -1,4 +1,5 @@
 <div align=center>
+	<img width="50%" align="right" src="https://user-images.githubusercontent.com/47518272/194712323-1af1e4f3-d160-4946-b8c7-4860e7748289.gif" alt="BAEKJungHo's Maker Card" />
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gimeast94&fontSize=90" />	
 </div>
 
