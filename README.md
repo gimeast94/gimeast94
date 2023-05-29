@@ -1,16 +1,50 @@
-### Hi there 👋
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gimeast94&fontSize=90" />	
+</div>
 
-<!--
-**gimeast94/gimeast94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+  <h3>📚 Tech Stack 📚</h3>
+  <p>✨ Platforms & Languages ✨</p>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h1 align="center">:fire: Dev Repository List</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3 align="center" style="color:red;">📚 History 📚</h3>
+
+  | Project Name |
+  | :---:        |
+  | [<img src="https://img.shields.io/badge/security-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_security) |
+  | [<img src="https://img.shields.io/badge/boardAPI-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_api) |
+  | [<img src="https://img.shields.io/badge/shop-41454A?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_jpashop) |
+
+  <br />
+
+  <h1 align="center">:star2: Let's Get Connected</h1>
+
+  <a href="https://gimeast.tistory.com/">
+    <img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog-7289DA?style=for-the-badge&logo=Dev Blog&logoColor=white">
+  </a>
+  <a href="https://github.com/gimeast94?tab=repositories" target="_blank">
+    <img alt="Dev Repository" src="https://img.shields.io/badge/Dev Repository%20-%230077B5.svg?&style=for-the-badge&logo=Dev Repository&logoColor=white" />
+  </a>  
+  
+  <h5 align="center">:heartbeat: 최신 업데이트 포스팅 바로가기 :heartbeat:</h5>
+  
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gimeast)](https://gimeast.tistory.com/)
+
+  <br />
+  
+</div>
