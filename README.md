@@ -1,8 +1,6 @@
 <div align=center>
-	<img width="50%" align="right" src="https://user-images.githubusercontent.com/47518272/194712323-1af1e4f3-d160-4946-b8c7-4860e7748289.gif" alt="BAEKJungHo's Maker Card" />
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gimeast94&fontSize=90" />	
 </div>
-
 <div align=center>
   <h3>📚 Tech Stack 📚</h3>
   <p>✨ Platforms & Languages ✨</p>
@@ -45,7 +43,6 @@
   <h5 align="center">:heartbeat: 최신 업데이트 포스팅 바로가기 :heartbeat:</h5>
   
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gimeast)](https://gimeast.tistory.com/)
-
+	<img width="25%" align="center" src="https://github.com/gimeast94/gimeast94/assets/122797364/42d14eff-e557-483d-b6b1-87a58e6bb164" />
   <br />
-  
 </div>
