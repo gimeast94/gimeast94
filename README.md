@@ -25,6 +25,7 @@
 
   | Project Name |
   | :---:        |
+  | [<img src="https://img.shields.io/badge/guestbook-7289DA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_guestbook) |
   | [<img src="https://img.shields.io/badge/security-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_security) |
   | [<img src="https://img.shields.io/badge/boardAPI-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_api) |
   | [<img src="https://img.shields.io/badge/shop-41454A?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_jpashop) |
