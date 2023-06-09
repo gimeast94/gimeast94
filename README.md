@@ -21,14 +21,22 @@
 <div align="center">
   <h1 align="center">:fire: Dev Repository List</h1>
 
-  <h3 align="center" style="color:red;">📚 History 📚</h3>
+  <h3 align="center" style="color:red;">📚 Study 📚</h3>
 
   | Project Name |
   | :---:        |
-  | [<img src="https://img.shields.io/badge/guestbook-7289DA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_guestbook) |
+  | [<img src="https://img.shields.io/badge/board-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board) |
+  | [<img src="https://img.shields.io/badge/guestbook-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_guestbook) |
   | [<img src="https://img.shields.io/badge/security-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_security) |
+  | [<img src="https://img.shields.io/badge/shop-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_jpashop) |
+	
+  <h3 align="center" style="color:red;">📚 Practice 📚</h3>
+	
+  | Project Name |
+  | :---:        |
   | [<img src="https://img.shields.io/badge/boardAPI-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_api) |
-  | [<img src="https://img.shields.io/badge/shop-41454A?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_jpashop) |
+  | [<img src="https://img.shields.io/badge/memoAPI-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_memo_api) |
+	
 
   <br />
 
