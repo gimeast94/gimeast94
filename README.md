@@ -34,10 +34,10 @@
 	
   | Project Name |
   | :---:        |
+  | [<img src="https://img.shields.io/badge/myboard-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_practice) |
   | [<img src="https://img.shields.io/badge/boardAPI-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_api) |
   | [<img src="https://img.shields.io/badge/memoAPI-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_memo_api) |
 	
-
   <br />
 
   <h1 align="center">:star2: Let's Get Connected</h1>
