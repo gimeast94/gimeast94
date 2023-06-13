@@ -25,7 +25,8 @@
 
   | Project Name |
   | :---:        |
-  | [<img src="https://img.shields.io/badge/board-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board) |
+  | [<img src="https://img.shields.io/badge/mreview-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_mreview) |
+  | [<img src="https://img.shields.io/badge/board-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board) |
   | [<img src="https://img.shields.io/badge/guestbook-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_guestbook) |
   | [<img src="https://img.shields.io/badge/security-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_security) |
   | [<img src="https://img.shields.io/badge/shop-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_jpashop) |
@@ -34,8 +35,8 @@
 	
   | Project Name |
   | :---:        |
-  | [<img src="https://img.shields.io/badge/myboard-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_practice) |
-  | [<img src="https://img.shields.io/badge/boardAPI-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_api) |
+  | [<img src="https://img.shields.io/badge/myboard-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_practice) |
+  | [<img src="https://img.shields.io/badge/boardAPI-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_api) |
   | [<img src="https://img.shields.io/badge/memoAPI-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_memo_api) |
 	
   <br />
