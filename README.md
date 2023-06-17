@@ -37,7 +37,6 @@
   | :---:        |
   | [<img src="https://img.shields.io/badge/myboard-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_practice) |
   | [<img src="https://img.shields.io/badge/boardAPI-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_api) |
-  | [<img src="https://img.shields.io/badge/memoAPI-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_memo_api) |
 	
   <br />
 
