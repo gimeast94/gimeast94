@@ -1,6 +1,9 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gimeast94&fontSize=90" />	
 </div>
+<div align=right>
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimeast94&count_bg=%23FD0000&title_bg=%23E7DFDF&icon=&icon_color=%23585656&title=hits&edge_flat=false"/></a>
+</div>
 <div align=center>
   <h3>📚 Tech Stack 📚</h3>
   <p>✨ Platforms & Languages ✨</p>
