@@ -25,7 +25,8 @@
 
   | Project Name |
   | :---:        |
-  | [<img src="https://img.shields.io/badge/mreview-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_mreview) |
+  | [<img src="https://img.shields.io/badge/security2-E34F26?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_club) |
+  | [<img src="https://img.shields.io/badge/mreview-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_mreview) |
   | [<img src="https://img.shields.io/badge/board-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board) |
   | [<img src="https://img.shields.io/badge/guestbook-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_guestbook) |
   | [<img src="https://img.shields.io/badge/security-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_security) |
