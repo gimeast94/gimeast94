@@ -28,7 +28,8 @@
 
   | Project Name |
   | :---:        |
-  | [<img src="https://img.shields.io/badge/2023_study-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/2023_study) |
+  | [<img src="https://img.shields.io/badge/2023_springboot-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/2023_springboot) |
+  | [<img src="https://img.shields.io/badge/2023_springFW-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/2023_springFW) |
 	
   <h3 align="center" style="color:red;">📚 Practice 📚</h3>
 	
