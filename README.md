@@ -30,15 +30,12 @@
   | :---:        |
   | [<img src="https://img.shields.io/badge/2023_springboot-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/2023_springboot) |
   | [<img src="https://img.shields.io/badge/2023_springFW-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/2023_springFW) |
-	
-<!--
+
   <h3 align="center" style="color:red;">📚 Practice 📚</h3>
 
   | Project Name |
   | :---:        |
-  | [<img src="https://img.shields.io/badge/myboard-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_practice) |
-  | [<img src="https://img.shields.io/badge/boardAPI-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/springboot_board_api) |
--->
+  | [<img src="https://img.shields.io/badge/2023_project-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast94/2023_project) |
   <br />
 
   <h1 align="center">:star2: Let's Get Connected</h1>
